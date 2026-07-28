@@ -1,0 +1,16 @@
+# Dart/Pub build outputs
+.dart_tool/
+build/
+
+# Dependency files
+.packages
+.pub/
+pubspec.lock
+
+# IDE files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
