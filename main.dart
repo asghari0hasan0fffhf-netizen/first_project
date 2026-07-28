@@ -4,6 +4,7 @@ void main() {
 }
 
 class Character {
+  String? id;
   String? name;
   String? lastName;
   String? colorBody;
