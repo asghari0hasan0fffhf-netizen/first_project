@@ -12,4 +12,8 @@ class Character {
   void eat() {
     print('eating...');
   }
+
+  void sleep() {
+    print('sleeing...');
+  }
 }
